@@ -1,5 +1,3 @@
-Goals
-
 To showcase my knowledge of React, TypeScript, NextJs, and Tailwind CSS
 
 To build an Airbnb clone website
